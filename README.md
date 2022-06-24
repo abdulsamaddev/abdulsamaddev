@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Farhan Ashraf</h1>
+<h1 align="center">Hi 👋, I'm Abdul Samad</h1>
 <h3 align="center">A passionate CS Student</h3>
 <h3 align="center">Who loves to code in different languages and frameworks.</h3>
 
 <div> <img src="https://visitor-badge.glitch.me/badge?page_id=mriceflame&label=Profile%20views&color=0e75b6&style=flat"  /> </div>
 
-<!-- <div> <a href="https://github.com/mriceflame"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=mriceflame" alt="mriceflame" /></a></div>--->
-<p align="left"> <a href="https://twitter.com/mriceflame" target="blank"><img src="https://img.shields.io/twitter/follow/mriceflame?logo=twitter&style=for-the-badge" alt="mriceflame" /></a> </p>
+<!-- <div> <a href="https://github.com/mriceflame"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=abdulsamaddev" alt="mriceflame" /></a></div>--->
+<p align="left"> <a href="https://twitter.com/samad" target="blank"><img src="https://img.shields.io/twitter/follow/mriceflame?logo=twitter&style=for-the-badge" alt="mriceflame" /></a> </p>
 
 
 - 🌱 I’m currently learning **Python,MERN Stack**
@@ -51,10 +51,10 @@
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
 <a href="https://github.com/mriceflame">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mriceflame&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mriceflame&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulsamaddev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulsamaddev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mriceflame&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulsamaddev&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1AF739&center=true&multiline=true&lines=Hi+my+name+is+Farhan;I+am+a+Computer+Science+Student)](https://git.io/typing-svg) -->
