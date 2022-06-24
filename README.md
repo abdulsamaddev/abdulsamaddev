@@ -72,7 +72,7 @@
 # Github Metrics
 
 <p align="center">
-	<img width="625em" src="https://github.com/mriceflame/mriceflame/blob/master/github-metrics.svg" />
+	<img width="625em" src="https://github.com/abdulsamaddev/abdulsamaddev/blob/master/github-metrics.svg" />
 </p>
 <br>
 <!-- <h3 align="left">Support:</h3>
